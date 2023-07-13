@@ -14,7 +14,7 @@ The main objectives of this project were:
 
 For this project, I utilized the following tools and technologies:
 - R programming language
-- RStudio (Integrated Development Environment)
+- PositCloud (Integrated Development Environment)
 - Excel (source data was provided in an Excel spreadsheet)
 
 ## Methodology
